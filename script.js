@@ -1,2 +1,2 @@
 const mensagem = "Hello!"
-alert("Hello World!")
+console.log("Hello World!")
